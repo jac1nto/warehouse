@@ -22,5 +22,9 @@ class Customer:
     def setCustomerId(self, customerId:int)-> None:
         self.__customerId: int = customerId
 
-  
+    def setName(self, name:str)-> None:
+
+    def setAddress(self, address:str)-> None:
+
+    def setWebsite(self, website:str)-> None:
 
